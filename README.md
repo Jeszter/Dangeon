@@ -1,6 +1,3 @@
-Here’s the translation:
-
----
 
 **Dungeon** is a small project created using object-oriented programming, where the player controls a knight, battles enemies, and avoids traps in a dungeon.  
 
@@ -31,3 +28,6 @@ Your character is a brave knight with 100 HP and a unique ability: a powerful ci
 **Game Goal:**  
 Make your way through the dangerous dungeon, defeat the enemies, and vanquish the mage to complete your epic journey.  
 😊
+
+
+
