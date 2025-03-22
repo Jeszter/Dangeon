@@ -28,6 +28,9 @@ Your character is a brave knight with 100 HP and a unique ability: a powerful ci
 **Game Goal:**  
 Make your way through the dangerous dungeon, defeat the enemies, and vanquish the mage to complete your epic journey.  
 
-[2024-12-13_18-59-26.mp4]
+<video width="100%" controls>
+  <source src="assets/2024-12-13_18-59-26.mp4" type="video/mp4">
+</video>
+
 
 
