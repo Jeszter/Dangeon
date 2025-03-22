@@ -88,6 +88,46 @@ Your main goal is to **explore the dungeon**, defeat the various enemies lurking
 
 ---
 
+## **🛋 Installation Instructions**
+
+To get started with the Dungeon game, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jeszter/Dangeon.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Dangeon
+   ```
+
+3. Ensure you have JDK installed:
+   ```bash
+   java -version
+   ```
+   If not installed, download and install the latest JDK from the official Oracle website.
+
+4. Build the project using Gradle:
+   ```bash
+   ./gradlew build
+   ```
+
+5. Run the game:
+   ```bash
+   java -jar build/libs/Dangeon.jar
+   ```
+
+---
+
+## **📚 Technologies Used**
+- **Java**: Core programming language.
+- **Gradle**: Build automation tool.
+- **Object-Oriented Programming (OOP)**: Used to structure the game.
+
+---
+
+**Enjoy the Dungeon!** 🏰⚔️
 
 https://github.com/user-attachments/assets/8b73adc0-82de-4e30-8b7d-06304cdac6d0
 
